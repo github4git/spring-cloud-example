@@ -3,10 +3,6 @@
 Spring Cloud相关DEMO，包含zuul\eureka\swagger2\feign\hystrix\spring cloud config\spring data rest等。  
 
 
-GitHub：<https://github.com/luoml/spring-cloud-example.git>  
-GitBook：<https://www.gitbook.com/book/luoml/spring-cloud-example/details>  
-[从这里开始](https://luoml.gitbooks.io/spring-cloud-example/content/)  
-
 
 _项目基于Spring Boot 1.4.1.RELEASE，各模块简要说明如下：_  
 
